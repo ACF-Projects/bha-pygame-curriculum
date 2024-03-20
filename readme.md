@@ -15,7 +15,7 @@ introducing the problem statement and templated code. To work with the code:
 
 _Alternatively, you may also copy the code of a file and paste it into an environment that can run Python like [the Replit website](https://replit.com/~)._
 
-### Day-by-Day Exercises
+## Day-by-Day Exercises
 
 ##### Day 1: Drawing Shapes, Movement, and Frames
 
