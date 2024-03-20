@@ -20,11 +20,14 @@ _Alternatively, you may also copy the code of a file and paste it into an enviro
 ##### Day 1: Drawing Shapes, Movement, and Frames
 
 -   `template.py`: A template that should be downloaded by students. Contains baseline code that creates an empty Pygame window.
--   `001-draw.py`: Primer to Pygame that demonstrates how to draw shapes onto the screen (`pygame.draw.rect()` and `pygame.draw.circle()`).
+-   `001-draw.py`: Primer to Pygame that demonstrates how to draw shapes onto the screen.
+    -   Content: `pygame.draw.rect()`, `pygame.draw.circle()`
     -   Exercise: Draw a rendition of a flag design!
--   `002-move.py`: Introduction to saving global variables to store data and receiving keyboard input from the user using `pygame.key.get_pressed()`.
+-   `002-move.py`: Introduction to saving global variables to store data and receiving keyboard input from the user.
+    -   Content: `pygame.key.get_pressed()`
     -   Exercise: The code provided only shows how to receive keyboard input, and create player coordinates. Connect these up, and make the player move based on key presses!
 -   `003-ticks.py`: Looking into the concept of frames per second (FPS) to make games ALWAYS run at the same speed, no matter how fast one's computer is!
+    -   Content: `pygame.time.Clock()`, `pygame.time.Clock.tick()`
     -   Exercise: Add local multiplayer functionality! Create another player, and allow that player to move around using different keys (e.g., one player uses WASD and the other uses arrow keys).
 
 ##### Day 2: TBD
