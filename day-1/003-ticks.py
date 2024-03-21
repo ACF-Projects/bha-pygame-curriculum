@@ -38,7 +38,7 @@ while running:
 
     ### Returns a dictionary of keys pressed IN THIS FRAME! ###
     pressed_keys = pygame.key.get_pressed()
-    ### Prints specific statements when WASD are pressed. ###
+    ### Moves player when WASD are pressed. ###
     if pressed_keys[pygame.K_w]:
         player_pos[1] -= 10
     if pressed_keys[pygame.K_a]:

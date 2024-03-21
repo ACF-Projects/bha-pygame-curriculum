@@ -2,8 +2,6 @@
 
 This repository contains a variety of assignments and demos to be used by ACF (Applied Computing Foundation) coaches for the BHA (Branksome Hall Asia) summer camp.
 
-This list is not exhaustive and is sorted by day.
-
 ## How To Use
 
 Every folder represents a single day, with comments inside of every file
@@ -19,6 +17,7 @@ _Alternatively, you may also copy the code of a file and paste it into an enviro
 
 ##### Day 1: Drawing Shapes, Movement, and Frames
 
+-   Introduction to Pygame through looking at [its documentation](https://www.pygame.org/docs/)!
 -   `template.py`: A template that should be downloaded by students. Contains baseline code that creates an empty Pygame window.
 -   `001-draw.py`: Primer to Pygame that demonstrates how to draw shapes onto the screen.
     -   Content: `pygame.draw.rect()`, `pygame.draw.circle()`
@@ -30,7 +29,15 @@ _Alternatively, you may also copy the code of a file and paste it into an enviro
     -   Content: `pygame.time.Clock()`, `pygame.time.Clock.tick()`
     -   Exercise: Add local multiplayer functionality! Create another player, and allow that player to move around using different keys (e.g., one player uses WASD and the other uses arrow keys).
 
-##### Day 2: TBD
+##### Day 2: Collisions and Classes
+
+-   `template.py`: A template that should be downloaded by students. Contains content that should be complete by the end of Day 1: a local multiplayer game.
+-   `001-collide.py`: Introduction to running code when two objects collide.
+    -   Content: `pygame.Rect()`, `pygame.Rect().colliderect()`
+    -   Exercise: Think about the problem, "Is there anything repetitive in our code that we could move elsewhere?"
+-   `002-classes.py`: Simplifying our main code by moving it outside into classes!
+    -   Content: `class Player`, `__init__()`, `draw()`, `update()`
+    -   Exercise: We won't fix the problem that occurs when we move our players into separate scripts, but think up a potential solution!
 
 ##### Day 3: TBD
 
