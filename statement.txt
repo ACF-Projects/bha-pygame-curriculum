@@ -1,0 +1,10 @@
+Q: How will AI be integrated into the Python/Pygame curriculum?
+
+A: > We'll look at some successes and flops in the video gaming industry 
+that use artificial intelligence to control behaviors. From the entities 
+that make Minecraft feel like Minecraft to the artificial conversations 
+in the indie game Suck Up!, we'll explore different ways to make games 
+feel more fun by introducing unpredictability with AI. Also, video game 
+development isn't easy, so we highly encourage students to utilize online 
+chatbots to explain unfamiliar code. We'll also explore how to use different 
+buzzwords to get the results we want.

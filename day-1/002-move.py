@@ -1,6 +1,6 @@
 """
-Let's move our objects around by making
-the (x, y) coordinates change!
+Let's move our objects around by making the (x, y) 
+coordinates change!
 
 Exercise: Complete the code below to make the circle move!
 """

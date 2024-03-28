@@ -1,6 +1,6 @@
 """
-Let's add a clock to make our movement more
-streamlined for all computers!
+Let's add a clock to make our movement more streamlined 
+for all computers!
 
 Exercise: Make a local multiplayer game! Add another
           object that moves when the ARROW KEYS are
